@@ -1,0 +1,1401 @@
+[
+  {
+    "id": 1,
+    "name": "Joust Duffle Bag",
+    "description": "The sporty Joust Duffle Bag can't be beat - not in the gym, not on the luggage carousel, not anywhere. Big enough to haul a basketball or soccer ball and some sneakers with plenty of room to spare, it's ideal for athletes with places to go.",
+    "image": "media/products//joust-bag.jpeg",
+    "price": "34€",
+    "qty": 120,
+    "related_products": [
+      1,
+      14,
+      52
+    ],
+    "crossells_products": [
+      3,
+      34,
+      41
+    ],
+    "upsells_products": [
+      10,
+      24,
+      32
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Strive Shoulder Pack",
+    "description": "Convenience is next to nothing when your day is crammed with action. So whether you're heading to class, gym, or the unbeaten path, make sure you've got your Strive Shoulder Pack stuffed with all your essentials, and extras as well.",
+    "image": "media/products/shoulder-pack.jpeg",
+    "price": "32€",
+    "qty": 1,
+    "related_products": [
+      17,
+      24,
+      32
+    ],
+    "crossells_products": [
+      1,
+      14,
+      21
+    ],
+    "upsells_products": [
+      2,
+      3,
+      31
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Crown Summit Backpack",
+    "description": "The Crown Summit Backpack is equally at home in a gym locker, study cube or a pup tent, so be sure yours is packed with books, a bag lunch, water bottles, yoga block, laptop, or whatever else you want in hand. Rugged enough for day hikes and camping trips, it has two large zippered compartments and padded, adjustable shoulder straps.",
+    "image": "media/products/summit-backpack.jpeg",
+    "price": "38€",
+    "qty": 120,
+    "related_products": [
+      8,
+      17,
+      44
+    ],
+    "crossells_products": [
+      5,
+      44,
+      45
+    ],
+    "upsells_products": [
+      3,
+      8,
+      12
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Wayfarer Messenger Bag",
+    "description": "Perfect for class, work or the gym, the Wayfarer Messenger Bag is packed with pockets. The dual-buckle flap closure reveals an organizational panel, and the roomy main compartment has spaces for your laptop and a change of clothes. An adjustable shoulder strap and easy-grip handle promise easy carrying.",
+    "image": "media/products/bag.jpeg",
+    "price": "45€",
+    "qty": 8,
+    "related_products": [
+      6,
+      64
+    ],
+    "crossells_products": [
+      10
+    ],
+    "upsells_products": [
+      17
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rival Field Messenger",
+    "description": "The Rival Field Messenger packs all your campus, studio or trail essentials inside a unique design of soft, textured leather - with loads of character to spare. Two exterior pockets keep all your smaller items handy, and the roomy interior offers even more space.",
+    "image": "media/products/field-messenger.jpeg",
+    "price": "45€",
+    "qty": 10
+  },
+  {
+    "id": 6,
+    "name": "Fusion Backpack",
+    "description": "With the Fusion Backpack strapped on, every trek is an adventure - even a bus ride to work. That's partly because two large zippered compartments store everything you need, while a front zippered pocket and side mesh pouches are perfect for stashing those little extras, in case you change your mind and take the day off.",
+    "image": "media/products/fusion-backpack.jpeg",
+    "price": "59€",
+    "qty": 1,
+    "related_products": [
+      10,
+      52
+    ],
+    "crossells_products": [
+      34,
+      41
+    ],
+    "upsells_products": [
+      24,
+      32
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Impulse Duffle",
+    "description": "Good for beach trips, track meets, yoga retreats and more, the Impulse Duffle is the companion you'll want at your side. A large U-shaped opening makes packing a hassle-free affair, while a zippered interior pocket keeps jewelry and other small valuables safely tucked out of sight.",
+    "image": "media/products/duffle-bag.jpeg",
+    "price": "74€",
+    "qty": 1,
+    "related_products": [
+      1
+    ],
+    "crossells_products": [
+      41
+    ],
+    "upsells_products": [
+      32
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Voyage Yoga Bag",
+    "description": "Everything you need for a trip to the gym will fit inside this surprisingly spacious Voyage Yoga Bag. Stock it with a water bottle, change of clothes, pair of shoes, and even a few beauty products. Fits inside a locker and zips shut for security.",
+    "image": "media/products/yoga-bag.jpeg",
+    "price": "32€",
+    "qty": 121,
+    "related_products": [
+      1,
+      14,
+      44,
+      52
+    ],
+    "crossells_products": [
+      3,
+      41
+    ],
+    "upsells_products": [
+      1,
+      4,
+      2
+    ]
+  },
+  {
+    "id": 9,
+    "name": "tote-bag",
+    "description": "The Compete Track Tote holds a host of exercise supplies with ease. Stash your towel, jacket and street shoes inside. Tuck water bottles in easy-access external spaces. Perfect for trips to gym or yoga studio, with dual top handles for convenience to and from.",
+    "image": "media/products/tote-bag.jpeg",
+    "price": "32€",
+    "qty": 122,
+    "related_products": [
+      18,
+      34,
+      42
+    ],
+    "crossells_products": [
+      14,
+      21
+    ],
+    "upsells_products": [
+      1,
+      22,
+      30
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Savvy Shoulder Tote",
+    "description": "Powerwalking to the gym or strolling to the local coffeehouse, the Savvy Shoulder Tote lets you stash your essentials in sporty style! A top-loading compartment provides quick and easy access to larger items, while zippered pockets on the front and side hold cash, credit cards and phone.",
+    "image": "media/products/shoulder-bag.jpeg",
+    "price": "24€",
+    "qty": 127,
+    "related_products": [
+      1,
+      14,
+      52
+    ],
+    "crossells_products": [
+      37,
+      64
+    ],
+    "upsells_products": [
+      32
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Endeavor Daytrip Backpack",
+    "description": "With more room than it appears, the Endeavor Daytrip Backpack will hold a whole day's worth of books, binders and gym clothes. The spacious main compartment includes a dedicated laptop sleeve. Two other compartments offer extra storage space.",
+    "image": "media/products/daytrip-backpack.jpeg",
+    "price": "33€",
+    "qty": 128,
+    "related_products": [
+      1
+    ],
+    "crossells_products": [
+      3
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Driven Backpack",
+    "description": "School books, camp gear and yoga clothes get along just fine in the all-purpose Driven Backpack. Crafted with tough polyester ripstop fabric, it's outfitted with rubberized end panels and padded, adjustable shoulder straps. The roomy main compartment features molded foam pockets that host everything you need.",
+    "image": "media/products/driven-backpack.jpeg",
+    "price": "36€",
+    "qty": 112,
+    "upsells_products": [
+      10,
+      24,
+      32
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Overnight Duffle",
+    "description": "For long weekends away, camping outings and business trips, the Overnight Duffle can't be beat. The dual handles make it a cinch to carry, while the durable waterproof exterior helps you worry less about the weather. With multiple organizational pockets inside and out, it's the perfect travel companion.",
+    "image": "media/products/overnight-bag.jpeg",
+    "price": "45€",
+    "qty": 102,
+    "related_products": [
+      1,
+      14,
+      52
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Push It Messenger Bag",
+    "description": "The name says so, but the Push It Messenger Bag is much more than a busy commuter's tote. It's a closet away from home when you're pedaling from class or work to gym and back or home again. It's the perfect size and shape for laptop, folded clothes, even extra shoes.",
+    "image": "media/products/push-it-bag.jpeg",
+    "price": "45€",
+    "qty": 72,
+    "crossells_products": [
+      3,
+      34,
+      41
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Affirm Water Bottle",
+    "description": "You'll stay hydrated with ease with the Affirm Water Bottle by your side or in hand. Measurements on the outside help you keep track of how much you're drinking, while the screw-top lid prevents spills. A metal carabiner clip allows you to attach it to the outside of a backpack or bag for easy access.",
+    "image": "media/products/water-bottle.jpeg",
+    "price": "7€",
+    "qty": 152,
+    "crossells_products": [
+      30,
+      41
+    ],
+    "upsells_products": [
+      10,
+      24
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Dual Handle Cardio Ball",
+    "description": "Make the most of your limited workout window with our Dual-Handle Cardio Ball. The 15-lb ball maximizes the effort-impact to your abdominal, upper arm and lower-body muscles. It features a handle on each side for a firm, secure grip.",
+    "image": "media/products/cardio-ball.jpeg",
+    "price": "12€",
+    "qty": 1
+  },
+  {
+    "id": 17,
+    "name": "Zing Jump Rope",
+    "description": "One of the world's simplest and most portable exercise devices, a jump rope enables endless variations and fitness output. The Zing Jump Rope goes anywhere and can be used any time. It is adjustable in length and has contoured foam handles for a great grip.",
+    "image": "media/products/jump-rope.jpeg",
+    "price": "12€",
+    "qty": 1,
+    "upsells_products": [
+      10,
+      24,
+      32
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Pursuit Lumaflex™ Tone Band",
+    "description": "Save your knees and joints while strengthening arms, legs and core with the Pursuit Lumaflex&trade; Tone Band. This ultra-durable training tool lets you complete a full-body workout free of bulky machines or free weights.",
+    "image": "media/products/tone-band.jpeg",
+    "price": "16€",
+    "qty": 1,
+    "related_products": [
+      10
+    ],
+    "crossells_products": [
+      34
+    ],
+    "upsells_products": [
+      32
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Go-Get'r Pushup Grips",
+    "description": "The Go-Get'r Pushup Grips safely provide the extra range of motion you need for a deep-dip routine targeting core, shoulder, chest and arm strength. Do fewer pushups using more energy, getting better results faster than the standard floor-level technique yield.",
+    "image": "media/products/grips.jpeg",
+    "price": "19€",
+    "qty": 192,
+    "related_products": [
+      13,
+      34,
+      32
+    ],
+    "crossells_products": [
+      14,
+      31,
+      51
+    ],
+    "upsells_products": [
+      40,
+      54,
+      62
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Quest Lumaflex™ Band",
+    "description": "From leg extensions and standing squats to a full range of floor routines, the Quest Strength Band brings your own personal gym with you everywhere you go. Designed to add extra resistance to any training session, this strength band helps you tone and define your muscles. You'll love the extra comfort of its grippy handles and adjustable design.",
+    "image": "media/products/band.jpeg",
+    "price": "19€",
+    "qty": 2,
+    "related_products": [
+      12
+    ],
+    "crossells_products": [
+      54
+    ],
+    "upsells_products": [
+      2
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Sprite Foam Yoga Brick",
+    "description": "Our top-selling yoga prop, the 4-inch, high-quality Sprite Foam Yoga Brick is popular among yoga novices and studio professionals alike. An essential yoga accessory, the yoga brick is a critical tool for finding balance and alignment in many common yoga poses. Choose from 5 color options.",
+    "image": "media/products/yoga-brick.jpeg",
+    "price": "5€",
+    "qty": 7,
+    "related_products": [
+      9
+    ],
+    "crossells_products": [
+      8
+    ],
+    "upsells_products": [
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Sprite Foam Roller",
+    "description": "It hurts so good to use the Sprite Foam Roller on achy, tired muscles for myofascial massage therapy. Or you can add this fundamental piece to your Pilates and yoga accouterment, or apply towards core stability, strengthening and balance exercise. ",
+    "image": "media/products/foam-roller.jpeg",
+    "price": "19€",
+    "qty": 1,
+    "related_products": [
+      5
+    ],
+    "crossells_products": [
+      1
+    ],
+    "upsells_products": [
+      3
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Harmony Lumaflex™ Strength Band Kit",
+    "description": "Forget fancy machines and costly memberships - the Harmony Lumaflex&trade; Stength Band Kit is all you need for an amazing workout. The kit has everything you need for a range of strengthening and toning exercises.",
+    "image": "media/products/band-kit.jpeg",
+    "price": "22€",
+    "qty": 1,
+    "related_products": [
+      44
+    ],
+    "crossells_products": [
+      55
+    ],
+    "upsells_products": [
+      34
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Sprite Stasis Ball 55 cm",
+    "description": "The Sprite Stasis Ball gives you the toned abs, sides, and back you want by amping up your core workout. With bright colors and a burst-resistant design, it's a must-have for every hard-core exercise addict. Use for abdominal conditioning, balance training, yoga, or even physical therapy.",
+    "image": "media/products/stability-ball-gray.jpeg",
+    "price": "23€",
+    "qty": 192,
+    "related_products": [
+      45
+    ],
+    "crossells_products": [
+      43
+    ],
+    "upsells_products": [
+      11
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Sprite Yoga Strap 10 foot",
+    "description": "The Sprite Yoga Strap is your untiring partner in demanding stretches, holds and alignment routines. The strap's 100% organic cotton fabric is woven tightly to form a soft, textured yet non-slip surface. The plastic clasp buckle is easily adjustable, lightweight and durable under strain.",
+    "image": "media/products/yoga-strap.jpeg",
+    "price": "21€",
+    "qty": 6,
+    "related_products": [
+      14,
+      22
+    ],
+    "crossells_products": [
+      63
+    ],
+    "upsells_products": [
+      32
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Aim Analog Watch",
+    "description": "Stay light-years ahead of the competition with our Aim Analog Watch. The flexible, rubberized strap is contoured to conform to the shape of your wrist for a comfortable all-day fit. The face features three illuminated hands, a digital read-out of the current time, and stopwatch functions.",
+    "image": "media/products/analog-watch.jpeg",
+    "price": "45€",
+    "qty": 8,
+    "related_products": [
+      1,
+      14,
+      52
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Endurance Watch",
+    "description": "It's easy to track and monitor your training progress with the Endurance Watch. You'll see standard info like time, date and day of the week, but it also functions for the serious high-mileage athete: lap counter, stopwatch, distance, heart rate, speed/pace, cadence and altitude.",
+    "image": "media/products/endurance-watch.jpeg",
+    "price": "49€",
+    "qty": 9
+  },
+  {
+    "id": 28,
+    "name": "Summit Watch",
+    "description": "Trek high and low in the attractive Summit Watch, which features a digital LED display with time and date, stopwatch, lap counter, and 3-second backlight. It can also calculate the number of steps taken and calories burned.",
+    "image": "media/products/summit-watch.jpeg",
+    "price": "54€",
+    "qty": 0,
+    "related_products": [
+      7
+    ],
+    "crossells_products": [
+      3
+    ],
+    "upsells_products": [
+      10,
+      24,
+      32
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Cruise Dual Analog Watch",
+    "description": "Whether you're traveling or wish you were, you'll never let time zones perplex you again with the Cruise Dual Analog Watch. The thick, adjustable band promises a comfortable, personalized fit to this classy, modern time piece.",
+    "image": "media/products/daul-analog-watch.jpeg",
+    "price": "55€",
+    "qty": 12,
+    "crossells_products": [
+      77
+    ],
+    "upsells_products": [
+      66
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Dash Digital Watch",
+    "description": "The Dash Digital Watch will challenge you to push harder and longer. Log workouts by date, average, and segment times, and recharge by setting hydration and nutrition alarms. This watch is styled with a sleek, square face and durable rubber strap for a long life.",
+    "image": "media/products/dash-digital-watch.jpeg",
+    "price": "92€",
+    "qty": 1,
+    "upsells_products": [
+      79
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Luma Analog Watch",
+    "description": "Designed to stand up to your active lifestyle, this women's Luma Analog Watch features a tasteful brushed chrome finish and a stainless steel, water-resistant construction for lasting durability.",
+    "image": "media/products/luma-analog-watch.jpeg",
+    "price": "43€",
+    "qty": 1,
+    "related_products": [
+      53
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Bolo Sport Watch",
+    "description": "The Bolo Sport Watch is sleek, sporty and sized just right to fit your smaller wrist. Easy to read and set up, it features a large digital face and button-activated alarm and stopwatch. The soft-touch resin band promises no-pinch comfort, while the water-resistant design lets you take your workout to the lap pool.",
+    "image": "media/products/bolo-sport-watch.jpeg",
+    "price": "49€",
+    "qty": 1,
+    "related_products": [
+      1,
+      14,
+      52
+    ],
+    "crossells_products": [
+      3,
+      34,
+      41
+    ],
+    "upsells_products": [
+      10,
+      24,
+      32
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Clamber Watch",
+    "description": "Keep track of time on the treadmill or trail with our Clamber Watch. The flexible, rubberized strap is contoured to conform to your wrist for a comfortable fit all day. The face features an illuminated digital read-out of the current time and stopwatch functions.",
+    "image": "media/products/clamber-watch.jpeg",
+    "price": "54€",
+    "qty": 1,
+    "related_products": [
+      1,
+      14,
+      52
+    ],
+    "crossells_products": [
+      37,
+      34,
+      41
+    ],
+    "upsells_products": [
+      50
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Didi Sport Watch",
+    "description": "The Didi Sport Watch helps you keep your workout plan down to the second. The vertical, digital face looks sleek and futuristic. This watch is programmed with tons of helpful features such as a timer, an alarm clock, a pedometer, and more to help make your excercise more productive.",
+    "image": "media/products/didi-sport-watch.jpeg",
+    "price": "92€",
+    "qty": 1,
+    "related_products": [
+      12,
+      14,
+      42
+    ],
+    "crossells_products": [
+      3,
+      14,
+      21
+    ],
+    "upsells_products": [
+      10,
+      25,
+      36
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Set of Sprite Yoga Straps",
+    "description": "Great set of Sprite Yoga Straps for every stretch and hold you need. There are three straps in this set: 6', 8' and 10'.",
+    "image": "media/products/yoga-strap-set.jpeg",
+    "price": "52€",
+    "qty": 13,
+    "related_products": [
+      12,
+      11,
+      12
+    ],
+    "crossells_products": [
+      3,
+      34,
+      61
+    ],
+    "upsells_products": [
+      10,
+      24,
+      32
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Sprite Yoga Companion Kit",
+    "description": "A well-rounded yoga workout takes more than a mat. The Sprite Yoga Companion Kit helps stock your studio with the basics you need for a full-range workout. The kit is composed of four best-selling Luma Sprite accessories in one easy bundle: statis ball, foam block, yoga strap, and foam roller. Choose sizes and colors and leave the rest to us. The kit includes:",
+    "image": "media/products/yoga-kit-2.jpeg",
+    "price": "77€",
+    "qty": 51
+  },
+  {
+    "id": 37,
+    "name": "Beginner's Yoga",
+    "description": "Beginner's Yoga starts you down the path toward strength, balance and mental focus. With this video download, you don't have to be a great athlete or gym guru to learn the best and most basic techniques for lifelong yoga foundation. ",
+    "image": "media/products/yoga-video.jpeg",
+    "price": "6€",
+    "qty": 11,
+    "related_products": [
+      1,
+      14,
+      22
+    ],
+    "crossells_products": [
+      3,
+      34,
+      51
+    ],
+    "upsells_products": [
+      10,
+      24,
+      62
+    ]
+  },
+  {
+    "id": 38,
+    "name": "LifeLong Fitness IV",
+    "description": "The most difficult yoga poses to master are the ones learned incorrectly as a beginner. Luma's Beginner's Yoga is a fantastic way to break into your initial yoga session and begin the journey to a longer, leaner, healthier body. Confidently find your way into yoga with this effective yet gentle program. You'll learn proper alignment and how to sidestep common mistakes.",
+    "image": "media/products/fitness-video.jpeg",
+    "price": "14€",
+    "qty": 14,
+    "related_products": [
+      1,
+      14,
+      62
+    ],
+    "crossells_products": [
+      3,
+      34,
+      71
+    ],
+    "upsells_products": [
+      10,
+      24,
+      62
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Yoga Adventure",
+    "description": "Luma presents an innovative power vinyasa yoga class for intermediate and advanced practitioners. The video allows you to pace yourself, but more intense work yields longer rest. This class is great for more advanced students looking to learn proper alignment in their yoga practice.",
+    "image": "media/products/yoga-adventure-video.jpeg",
+    "price": "22€",
+    "qty": 21,
+    "related_products": [
+      1,
+      14,
+      57
+    ],
+    "crossells_products": [
+      3,
+      34,
+      45
+    ],
+    "upsells_products": [
+      16,
+      24,
+      37
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Luma Yoga For Life",
+    "description": "Luma founder Erin Renny on yoga and longevity: \"I won't promise you'll live longer with yoga. No one can promise that. But your life will be healthier, less stressful, and more physically in tune when you focus on connecting your mind and body or a regular basis. Yoga is my favorite way to express this connection. I want to share the secrets of lifelong yoga with anyone willing to breathe and learn with me.",
+    "image": "media/products/bag.jpeg",
+    "price": "9€",
+    "qty": 51,
+    "related_products": [
+      17,
+      17,
+      57
+    ],
+    "crossells_products": [
+      37,
+      38,
+      49
+    ],
+    "upsells_products": [
+      12,
+      24,
+      34
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Chaz Kangeroo Hoodie",
+    "description": "Ideal for cold-weather training or work outdoors, the Chaz Hoodie promises superior warmth with every wear. Thick material blocks out the wind as ribbed cuffs and bottom band seal in body heat.",
+    "image": "media/products/hoodie.jpeg",
+    "price": "52€",
+    "qty": 21,
+    "related_products": [
+      14,
+      17,
+      58
+    ],
+    "crossells_products": [
+      32,
+      34,
+      46
+    ],
+    "upsells_products": [
+      10
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Teton Pullover Hoodie",
+    "description": "This Teton Pullover Hoodie gives you more than laid-back style. It's equipped with moisture-wicking fabric to keep light and dry inside, especially in chilly-weather workouts. An elasticized hem lets you move about freely.",
+    "image": "media/products/pullover-hoodie.jpeg",
+    "price": "70€",
+    "qty": 61
+  },
+  {
+    "id": 43,
+    "name": "Bruno Compete Hoodie",
+    "description": "Stay comfortable and stay in the race no matter what the weather's up to. The Bruno Compete Hoodie's water-repellent exterior shields you from the elements, while advanced fabric technology inside wicks moisture to keep you dry.\n\n",
+    "image": "media/products/bruno-hoodie.jpeg",
+    "price": "63€",
+    "qty": 71,
+    "related_products": [
+      14,
+      52
+    ],
+    "crossells_products": [
+      3,
+      41
+    ],
+    "upsells_products": [
+      24,
+      32
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Frankie Sweatshirt",
+    "description": "The Frankie Sweatshirt is your best friend at long afternoon stadium stints or winter trailside campsites. The soft fleece fabric keeps you toasty as moisture-wicking technology kicks in when the sun comes out.",
+    "image": "media/products/sweatshirt.jpeg",
+    "price": "60€",
+    "qty": 81,
+    "related_products": [
+      1
+    ],
+    "crossells_products": [
+      34
+    ],
+    "upsells_products": [
+      32
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Hollister Backyard Sweatshirt",
+    "description": "Kick off your weekend in the Hollister Backyard Sweatshirt. Whether you're raking leaves or flipping burgers, this comfy layer blocks the bite of the crisp autumn air. Puffy thick from hood to hem, it traps heat against your core.",
+    "image": "media/products/backyard-sweatshirt.jpeg",
+    "price": "52€",
+    "qty": 91,
+    "related_products": [
+      66
+    ],
+    "crossells_products": [
+      77
+    ],
+    "upsells_products": [
+      88
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Stark Fundamental Hoodie",
+    "description": "You don't need bells and whistles when performance speaks for itself. The full-zip Stark Fundamental Hoodie give just what you need. Hood and fleece lining keep you warm, while breathable fabric and wicking technology won't let you overheat.",
+    "image": "media/products/stark-hoodie.jpeg",
+    "price": "42€",
+    "qty": 111,
+    "related_products": [
+      74
+    ],
+    "crossells_products": [
+      55
+    ],
+    "upsells_products": [
+      33
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Hero Hoodie",
+    "description": "Gray and black color blocking sets you apart as the Hero Hoodie keeps you warm on the bus, campus or cold mean streets. Slanted outsize front pockets keep your style real . . . convenient.",
+    "image": "media/products/hero-hoodie.jpeg",
+    "price": "54€",
+    "qty": 221,
+    "related_products": [
+      33
+    ],
+    "crossells_products": [
+      44
+    ],
+    "upsells_products": [
+      11
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Oslo Trek Hoodie",
+    "description": "Chilly weather is just an excuse to throw on your toasty, handsome new Oslo Trek Hoodie. It features an adjustable drawstring hood and a kangaroo pocket for extra hand warmth. The ultra-soft, cozy lining will have you wishing for more brisk days.",
+    "image": "media/products/oslo-hoodie.jpeg",
+    "price": "42€",
+    "qty": 11,
+    "related_products": [
+      22
+    ],
+    "crossells_products": [
+      33
+    ],
+    "upsells_products": [
+      14
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Abominable Hoodie",
+    "description": "It took CoolTech™ weather apparel know-how and lots of wind-resistant fabric to get the Abominable Hoodie just right. It's aggressively warm when it needs to be, while maintaining your comfort in milder climes.",
+    "image": "media/products/abominable-hoodie.jpeg",
+    "price": "12€",
+    "qty": 31,
+    "related_products": [
+      55
+    ],
+    "crossells_products": [
+      22
+    ],
+    "upsells_products": [
+      14,
+      32
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Mach Street Sweatshirt",
+    "description": "From hard streets to asphalt track, the Mach Street Sweatshirt holds up to wear and wind and rain. An infusion of performance and stylish comfort, with moisture-wicking LumaTech™ fabric, it's bound to become an everyday part of your active lifestyle",
+    "image": "media/products/street-sweatshirt.jpeg",
+    "price": "62€",
+    "qty": 31,
+    "related_products": [
+      74
+    ],
+    "crossells_products": [
+      62
+    ],
+    "upsells_products": [
+      42
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Grayson Crewneck Sweatshirt",
+    "description": "The Grayson Crewneck Sweatshirt gives you that ageless, classic look – a style that comes back around nearly every season. What's more, its performance and temp-control values are always in vogue.",
+    "image": "media/products/grayson-sweatshirt.jpeg",
+    "price": "64€",
+    "qty": 11,
+    "related_products": [
+      13
+    ],
+    "crossells_products": [
+      44
+    ],
+    "upsells_products": [
+      73
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Ajax Full-Zip Sweatshirt",
+    "description": "The Ajax Full-Zip Sweatshirt makes the optimal layering or outer piece for archers, golfers, hikers and virtually any other sportsmen. Not only does it have top-notch moisture-wicking abilities, but the tight-weave fabric also prevents pilling from repeated wash-and-wear cycles.",
+    "image": "media/products/ajax-sweatshirt.jpeg",
+    "price": "69€",
+    "qty": 12,
+    "related_products": [
+      11
+    ],
+    "crossells_products": [
+      3,
+      32
+    ],
+    "upsells_products": [
+      15
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Marco Lightweight Active Hoodie",
+    "description": "For cold-weather training or post-game layering, you need something more than a basic fleece. Our Marco Lightweight Active Hoodie brings both style and performance to the plate, court, or touchline. The smooth-faced, brushed-back fabric blocks wind and traps body heat, while integrated Cocona® fibers pull moisture away.",
+    "image": "media/products/bag.jpeg",
+    "price": "74€",
+    "qty": 14,
+    "upsells_products": [
+      10,
+      26,
+      32
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Caesar Warm-Up Pant",
+    "description": "Command your workout and keep your muscles limber in the Caesar Warm-Up Pant. Engineered CoolTech™ fabric wicks away moisture so you don't have to worry about sweat and discomfort. The drawstring-adjustable waist helps make sure your pants fit properly.",
+    "image": "media/products/caesar-pant.jpeg",
+    "price": "35€",
+    "qty": 16,
+    "related_products": [
+      72
+    ],
+    "crossells_products": [
+      51
+    ],
+    "upsells_products": [
+      9
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Viktor LumaTech™ Pant",
+    "description": "You'll love the new Viktor LumaTech™ Pant, with featherweight fleece fabric lining and stretchy, sweat-wicking material. It delivers toasty warmth on the sidelines or in cold-weather training, with reflective trim for a safe finish.",
+    "image": "media/products/viktor-pant.jpeg",
+    "price": "12€",
+    "qty": 177,
+    "related_products": [
+      11
+    ],
+    "crossells_products": [
+      12
+    ],
+    "upsells_products": [
+      13
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Geo Insulated Jogging Pant",
+    "description": "In the cold, even the toughest guys shiver, unless they're in the Geo Insulated Jogging Pant. Lightweight and wind resistant, they block brutal wind gusts and warm you to the bone. Breathable mesh keeps them dry on the inside.",
+    "image": "media/products/geo-pant.jpeg",
+    "price": "51€",
+    "qty": 18,
+    "related_products": [
+      42
+    ],
+    "crossells_products": [
+      33
+    ],
+    "upsells_products": [
+      15
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Kratos Gym Pant",
+    "description": "Like it's namesake god of strength, the Kratos Gym Pant help you bring your best to bear on weight-based, plyometric and endurance exercise. They stretch and support in all the right places while ultra-light construction and moisture-wicking technology provide comfort.",
+    "image": "media/products/kratos-pant.jpeg",
+    "price": "57€",
+    "qty": 19,
+    "related_products": [
+      19,
+      55,
+      59
+    ],
+    "crossells_products": [
+      67
+    ],
+    "upsells_products": [
+      18
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Mithra Warmup Panty",
+    "description": "When you're not sure you're up to the weather, don the Mithra Warmup Pant for a confidence boost. Its supersoft, stretchy fabric and fleece-like finish help prep your muscles and ease your mind. Designed for relaxed, easy-wear fit with handy ankle zips.",
+    "image": "media/products/mithra-pants.jpeg",
+    "price": "12€",
+    "qty": 12,
+    "related_products": [
+      1
+    ],
+    "crossells_products": [
+      3,
+      74
+    ],
+    "upsells_products": [
+      14,
+      32
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Zeppelin Yoga Pant",
+    "description": "Climb every mountain, or hold every pose, in the all-purpose Zepellin Yoga Pant. With its thin fleece interior and smooth layer-friendly surface, you'll get all the comfort and versatility you need.",
+    "image": "media/products/yoga-pant.jpeg",
+    "price": "82€",
+    "qty": 12,
+    "related_products": [
+      19,
+      20
+    ],
+    "crossells_products": [
+      30
+    ],
+    "upsells_products": [
+      29
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Mona Pullover Hoodie",
+    "description": "Whether you're after energizing activity or eye-catching apparel, the Mona Pullover is what you want. You'll stay warm and look fashionable, wherever you are.",
+    "image": "media/products/mona-hoodie.jpeg",
+    "price": "57€",
+    "qty": 13,
+    "related_products": [
+      21,
+      23
+    ],
+    "crossells_products": [
+      1
+    ],
+    "upsells_products": [
+      3
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Hera Pullover Hoodie",
+    "description": "Get ready to rule the studio and dominate the yoga mat in the Hera Pullover Hoodie, a cozy yet classy look for any level of yogi.",
+    "image": "media/products/hera-hoodie.jpeg",
+    "price": "48€",
+    "qty": 11,
+    "related_products": [
+      2
+    ],
+    "crossells_products": [
+      3
+    ],
+    "upsells_products": [
+      4
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Miko Pullover Hoodie",
+    "description": "After quality gym time, put on the Miko Pullover Hoody and keep your body warm. You'll find it's fashionable enough for the streets, but comfy enough to relax in at home.",
+    "image": "media/products/miko-hoodie.jpeg",
+    "price": "69€",
+    "qty": 10,
+    "related_products": [
+      5
+    ],
+    "crossells_products": [
+      6
+    ],
+    "upsells_products": [
+      7
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Daphne Full-Zip Hoodie",
+    "description": "The Daphne Hoodie is an attractive yet rugged layering or outer piece, especially for chilly days en route the studio, doing yardwork or enjoying outdoor recreation.",
+    "image": "media/products/daphne-hoodie.jpeg",
+    "price": "59€",
+    "qty": 10,
+    "related_products": [
+      8
+    ],
+    "crossells_products": [
+      10
+    ],
+    "upsells_products": [
+      9
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Phoebe Zipper Sweatshirt",
+    "description": "A sophisticated layer of warmth awaits you in our full-zip sweatshirt jacket. You'll reach for this one in any season to enjoy its sturdy exterior and plush interior.",
+    "image": "media/products/phoebe-sweatshirt.jpeg",
+    "price": "59€",
+    "qty": 1,
+    "related_products": [
+      43
+    ],
+    "crossells_products": [
+      42
+    ],
+    "upsells_products": [
+      41
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Cassia Funnel Sweatshirt",
+    "description": "The casual Cassia Funnel Sweatshirt sports front angled pockets and a drawstring stretch funnel hoodie. A cowl front neck pairs with a tagless label at back neck.",
+    "image": "media/products/cassia-sweatshirt.jpeg",
+    "price": "48€",
+    "qty": 1,
+    "related_products": [
+      2
+    ],
+    "crossells_products": [
+      43,
+      44
+    ],
+    "upsells_products": [
+      55
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Ariel Roll Sleeve Sweatshirt",
+    "description": "Soft, sleek and subtle, the Ariel Roll Sleeve Sweatshirt is a nuanced fitness garment for all occasions. It works equally well as a workout piece or in a casual social setting.",
+    "image": "media/products/ariel-sweatshirt.jpeg",
+    "price": "39€",
+    "qty": 16,
+    "related_products": [
+      1,
+      14,
+      52
+    ],
+    "crossells_products": [
+      3,
+      34,
+      41
+    ],
+    "upsells_products": [
+      10
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Eos V-Neck Hoodie",
+    "description": "Getting chilly before class starts? Wear the Eos on your way to and from yoga for a cute and cozy warmup piece. Reach for its reliable comfort and enjoy a super-soft blend of fabrics finished in sporty style that includes a hidden kangaroo pocket.",
+    "image": "media/products/eos-hoodie.jpeg",
+    "price": "54€",
+    "qty": 16,
+    "related_products": [
+      1
+    ],
+    "crossells_products": [
+      37,
+      41
+    ],
+    "upsells_products": [
+      32
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Minerva LumaTech™ V-Tee",
+    "description": "Don't be fooled by the simple design of our Minerva LumaTech™ V-Neck Tee. This classic training top features the same serious sweat-wicking technology as some of the more expensive tees in our lineup.",
+    "image": "media/products/minerva.jpeg",
+    "price": "32€",
+    "qty": 100,
+    "related_products": [
+      1
+    ],
+    "crossells_products": [
+      34
+    ],
+    "upsells_products": [
+      24
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Electra Bra Top",
+    "description": "A heavenly soft and stylish eco garment, the Electra Bra Top is perfect for wearing on its own as a hot yoga top or layered under a tank.",
+    "image": "media/products/electra-top.jpeg",
+    "price": "39€",
+    "qty": 16
+  },
+  {
+    "id": 70,
+    "name": "Erica Evercool Sports Bra",
+    "description": "Perfect for medium-impact workouts, our Erica EverCool™ Sports Bra brings a brilliant combo of comfort and style. Moisture-wicking technology keeps you dry, and the flattering hybrid racerback promises an unbeatable range of motion.",
+    "image": "media/products/erica-top.jpeg",
+    "price": "39€",
+    "qty": 6,
+    "related_products": [
+      1,
+      14,
+      52
+    ],
+    "crossells_products": [
+      3,
+      34,
+      41
+    ],
+    "upsells_products": [
+      10,
+      24,
+      32
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Prima Compete Bra Top",
+    "description": "Pull on the Prima Compete Bra Top and you'll love the fabric: soft, stretchy, and ultra lightweight. But you'll also love the racerback cut, for freer movement through all your athletic feats.",
+    "image": "media/products/prima-top.jpeg",
+    "price": "24€",
+    "qty": 7,
+    "crossells_products": [
+      3
+    ],
+    "upsells_products": [
+      10,
+      24,
+      32
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Lucia Cross-Fit Bra",
+    "description": "Being cool is a big part of being comfy, which is why the Lucia Cross-Fit Bra features moisture-wicking technology as well as soft, lightweight fabric.\n\n",
+    "image": "media/products/lucia-top.jpeg",
+    "price": "39€",
+    "qty": 4,
+    "related_products": [
+      14
+    ],
+    "crossells_products": [
+      41
+    ],
+    "upsells_products": [
+      24
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Breathe-Easy Tank",
+    "description": "The Breathe Easy Tank is so soft, lightweight, and comfortable, you won't even know it's there -- until its high-tech Cocona® fabric starts wicking sweat away from your body to help you stay dry and focused. Layer it over your favorite sports bra and get moving.",
+    "image": "media/products/tank.jpeg",
+    "price": "34€",
+    "qty": 14,
+    "related_products": [
+      55
+    ],
+    "crossells_products": [
+      33
+    ],
+    "upsells_products": [
+      46
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Karmen Yoga Pant",
+    "description": "Good for running, hiking, lounging or stretching, the Cora Parachute Pant presents comfortable styling designed to help you look and feel great.",
+    "image": "media/products/karmen-pant.jpeg",
+    "price": "39€",
+    "qty": 18,
+    "crossells_products": [
+      3,
+      34,
+      51
+    ],
+    "upsells_products": [
+      56
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Emma Leggings",
+    "description": "These comfortable and practical leggings pair perfectly with any workout top or casual tee. The Emma's subtle contrast fabric and fit ensure you're stylish without overdoing it.",
+    "image": "media/products/emma-leggings.jpeg",
+    "price": "42€",
+    "qty": 19,
+    "related_products": [
+      65
+    ],
+    "upsells_products": [
+      10,
+      24,
+      32
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Sahara Leggings",
+    "description": "Contrast colors, full-length leggings, and opaque, high-stretch fabric define the Sahara. Flat-locked seams and quick-drying wicking properties prevent chafing. A deep elasticated waistband and carefully positioned seamlines create a flattering silhouette.",
+    "image": "media/products/sahara-leggings.jpeg",
+    "price": "75€",
+    "qty": 19
+  },
+  {
+    "id": 77,
+    "name": "Diana Tights",
+    "description": "Perfect for hot bikram session or cool-down stretching. 8-percent stretch means you'll feel like anything is possible in the capri-style Diana Tights.",
+    "image": "media/products/diana-tights.jpeg",
+    "price": "59€",
+    "qty": 91,
+    "related_products": [
+      14,
+      52
+    ],
+    "crossells_products": [
+      34,
+      41
+    ],
+    "upsells_products": [
+      33
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Sylvia Capri",
+    "description": "Enjoy a sleek, slendering look in new Silvia Capri. Its engineer-designed support fabric feels great and gives the illusion of a slimmer fit.",
+    "image": "media/products/sylvia-capri.jpeg",
+    "price": "42€",
+    "qty": 51,
+    "related_products": [
+      2
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Fiona Fitness Short",
+    "description": "Don't let the plain style fool you: the Fiona Fitness Short demands notice on several levels. Comfort, of course. But also a performance-grade wicking fabric that takes everything you can give.",
+    "image": "media/products/fiona-short.jpeg",
+    "price": "29€",
+    "qty": 21,
+    "related_products": [
+      17
+    ],
+    "crossells_products": [
+      74
+    ],
+    "upsells_products": [
+      45
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Gwen Drawstring Bike Short",
+    "description": "For a completely modern style with moisture-wicking CoolTech™ technology, try the Gwen Drawstring Bike Short. Subtle grays and eye catching stitching combine with an adjustable waist for the perfect look and fit.",
+    "image": "media/products/bike-short.jpeg",
+    "price": "50€",
+    "qty": 31,
+    "related_products": [
+      2
+    ],
+    "crossells_products": [
+      33
+    ],
+    "upsells_products": [
+      44
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Artemis Running Short",
+    "description": "Discover smooth jogging and chic comfort each time you slip into the Artemis Running Short. A unique maritime-inspired design and oolor theme features a stretchy drawstring waist.",
+    "image": "media/products/artemis-short.jpeg",
+    "price": "45€",
+    "qty": 11,
+    "related_products": [
+      46
+    ],
+    "crossells_products": [
+      77
+    ],
+    "upsells_products": [
+      34
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Angel Light Running Short",
+    "description": "The Angel Light Running Short offers comfort in an ultra-lightweight, breathable package. With fabric infused with all-natural Cocona® performance technology, it can whisk away sweat and block UV rays.",
+    "image": "media/products/angel-short.jpeg",
+    "price": "42€",
+    "qty": 1,
+    "related_products": [
+      80
+    ],
+    "crossells_products": [
+      44
+    ],
+    "upsells_products": [
+      79
+    ]
+  }
+]
