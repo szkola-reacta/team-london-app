@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Joust Duffle Bag",
     "description": "The sporty Joust Duffle Bag can't be beat - not in the gym, not on the luggage carousel, not anywhere. Big enough to haul a basketball or soccer ball and some sneakers with plenty of room to spare, it's ideal for athletes with places to go.",
-    "image": "media/products//joust-bag.jpeg",
+    "image": "media/products/joust-bag.jpeg",
     "price": "34€",
     "qty": 120,
     "related_products": [
@@ -156,7 +156,7 @@
   },
   {
     "id": 9,
-    "name": "tote-bag",
+    "name": "Compete Track Tote",
     "description": "The Compete Track Tote holds a host of exercise supplies with ease. Stash your towel, jacket and street shoes inside. Tuck water bottles in easy-access external spaces. Perfect for trips to gym or yoga studio, with dual top handles for convenience to and from.",
     "image": "media/products/tote-bag.jpeg",
     "price": "32€",
@@ -288,7 +288,7 @@
   },
   {
     "id": 18,
-    "name": "Pursuit Lumaflex™ Tone Band",
+    "name": "Pursuit Lumaflex Tone Band",
     "description": "Save your knees and joints while strengthening arms, legs and core with the Pursuit Lumaflex&trade; Tone Band. This ultra-durable training tool lets you complete a full-body workout free of bulky machines or free weights.",
     "image": "media/products/tone-band.jpeg",
     "price": "16€",
@@ -328,7 +328,7 @@
   },
   {
     "id": 20,
-    "name": "Quest Lumaflex™ Band",
+    "name": "Quest Lumaflex Band",
     "description": "From leg extensions and standing squats to a full range of floor routines, the Quest Strength Band brings your own personal gym with you everywhere you go. Designed to add extra resistance to any training session, this strength band helps you tone and define your muscles. You'll love the extra comfort of its grippy handles and adjustable design.",
     "image": "media/products/band.jpeg",
     "price": "19€",
@@ -379,7 +379,7 @@
   },
   {
     "id": 23,
-    "name": "Harmony Lumaflex™ Strength Band Kit",
+    "name": "Harmony Lumaflex Strength Band Kit",
     "description": "Forget fancy machines and costly memberships - the Harmony Lumaflex&trade; Stength Band Kit is all you need for an amazing workout. The kit has everything you need for a range of strengthening and toning exercises.",
     "image": "media/products/band-kit.jpeg",
     "price": "22€",
@@ -832,7 +832,7 @@
   {
     "id": 49,
     "name": "Abominable Hoodie",
-    "description": "It took CoolTech™ weather apparel know-how and lots of wind-resistant fabric to get the Abominable Hoodie just right. It's aggressively warm when it needs to be, while maintaining your comfort in milder climes.",
+    "description": "It took CoolTech weather apparel know-how and lots of wind-resistant fabric to get the Abominable Hoodie just right. It's aggressively warm when it needs to be, while maintaining your comfort in milder climes.",
     "image": "media/products/abominable-hoodie.jpeg",
     "price": "12€",
     "qty": 31,
@@ -850,7 +850,7 @@
   {
     "id": 50,
     "name": "Mach Street Sweatshirt",
-    "description": "From hard streets to asphalt track, the Mach Street Sweatshirt holds up to wear and wind and rain. An infusion of performance and stylish comfort, with moisture-wicking LumaTech™ fabric, it's bound to become an everyday part of your active lifestyle",
+    "description": "From hard streets to asphalt track, the Mach Street Sweatshirt holds up to wear and wind and rain. An infusion of performance and stylish comfort, with moisture-wicking LumaTech fabric, it's bound to become an everyday part of your active lifestyle",
     "image": "media/products/street-sweatshirt.jpeg",
     "price": "62€",
     "qty": 31,
@@ -915,7 +915,7 @@
   {
     "id": 54,
     "name": "Caesar Warm-Up Pant",
-    "description": "Command your workout and keep your muscles limber in the Caesar Warm-Up Pant. Engineered CoolTech™ fabric wicks away moisture so you don't have to worry about sweat and discomfort. The drawstring-adjustable waist helps make sure your pants fit properly.",
+    "description": "Command your workout and keep your muscles limber in the Caesar Warm-Up Pant. Engineered CoolTech fabric wicks away moisture so you don't have to worry about sweat and discomfort. The drawstring-adjustable waist helps make sure your pants fit properly.",
     "image": "media/products/caesar-pant.jpeg",
     "price": "35€",
     "qty": 16,
@@ -931,8 +931,8 @@
   },
   {
     "id": 55,
-    "name": "Viktor LumaTech™ Pant",
-    "description": "You'll love the new Viktor LumaTech™ Pant, with featherweight fleece fabric lining and stretchy, sweat-wicking material. It delivers toasty warmth on the sidelines or in cold-weather training, with reflective trim for a safe finish.",
+    "name": "Viktor LumaTech Pant",
+    "description": "You'll love the new Viktor LumaTech Pant, with featherweight fleece fabric lining and stretchy, sweat-wicking material. It delivers toasty warmth on the sidelines or in cold-weather training, with reflective trim for a safe finish.",
     "image": "media/products/viktor-pant.jpeg",
     "price": "12€",
     "qty": 177,
@@ -984,7 +984,7 @@
   },
   {
     "id": 58,
-    "name": "Mithra Warmup Panty",
+    "name": "Mithra Warmup Pant",
     "description": "When you're not sure you're up to the weather, don the Mithra Warmup Pant for a confidence boost. Its supersoft, stretchy fabric and fleece-like finish help prep your muscles and ease your mind. Designed for relaxed, easy-wear fit with handy ankle zips.",
     "image": "media/products/mithra-pants.jpeg",
     "price": "12€",
@@ -1164,23 +1164,6 @@
   },
   {
     "id": 68,
-    "name": "Minerva LumaTech™ V-Tee",
-    "description": "Don't be fooled by the simple design of our Minerva LumaTech™ V-Neck Tee. This classic training top features the same serious sweat-wicking technology as some of the more expensive tees in our lineup.",
-    "image": "media/products/minerva.jpeg",
-    "price": "32€",
-    "qty": 100,
-    "related_products": [
-      1
-    ],
-    "crossells_products": [
-      34
-    ],
-    "upsells_products": [
-      24
-    ]
-  },
-  {
-    "id": 69,
     "name": "Electra Bra Top",
     "description": "A heavenly soft and stylish eco garment, the Electra Bra Top is perfect for wearing on its own as a hot yoga top or layered under a tank.",
     "image": "media/products/electra-top.jpeg",
@@ -1188,9 +1171,9 @@
     "qty": 16
   },
   {
-    "id": 70,
+    "id": 69,
     "name": "Erica Evercool Sports Bra",
-    "description": "Perfect for medium-impact workouts, our Erica EverCool™ Sports Bra brings a brilliant combo of comfort and style. Moisture-wicking technology keeps you dry, and the flattering hybrid racerback promises an unbeatable range of motion.",
+    "description": "Perfect for medium-impact workouts, our Erica EverCool Sports Bra brings a brilliant combo of comfort and style. Moisture-wicking technology keeps you dry, and the flattering hybrid racerback promises an unbeatable range of motion.",
     "image": "media/products/erica-top.jpeg",
     "price": "39€",
     "qty": 6,
@@ -1211,7 +1194,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 70,
     "name": "Prima Compete Bra Top",
     "description": "Pull on the Prima Compete Bra Top and you'll love the fabric: soft, stretchy, and ultra lightweight. But you'll also love the racerback cut, for freer movement through all your athletic feats.",
     "image": "media/products/prima-top.jpeg",
@@ -1227,7 +1210,7 @@
     ]
   },
   {
-    "id": 72,
+    "id": 71,
     "name": "Lucia Cross-Fit Bra",
     "description": "Being cool is a big part of being comfy, which is why the Lucia Cross-Fit Bra features moisture-wicking technology as well as soft, lightweight fabric.\n\n",
     "image": "media/products/lucia-top.jpeg",
@@ -1244,7 +1227,7 @@
     ]
   },
   {
-    "id": 73,
+    "id": 72,
     "name": "Breathe-Easy Tank",
     "description": "The Breathe Easy Tank is so soft, lightweight, and comfortable, you won't even know it's there -- until its high-tech Cocona® fabric starts wicking sweat away from your body to help you stay dry and focused. Layer it over your favorite sports bra and get moving.",
     "image": "media/products/tank.jpeg",
@@ -1261,7 +1244,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 73,
     "name": "Karmen Yoga Pant",
     "description": "Good for running, hiking, lounging or stretching, the Cora Parachute Pant presents comfortable styling designed to help you look and feel great.",
     "image": "media/products/karmen-pant.jpeg",
@@ -1277,7 +1260,7 @@
     ]
   },
   {
-    "id": 75,
+    "id": 74,
     "name": "Emma Leggings",
     "description": "These comfortable and practical leggings pair perfectly with any workout top or casual tee. The Emma's subtle contrast fabric and fit ensure you're stylish without overdoing it.",
     "image": "media/products/emma-leggings.jpeg",
@@ -1293,7 +1276,7 @@
     ]
   },
   {
-    "id": 76,
+    "id": 75,
     "name": "Sahara Leggings",
     "description": "Contrast colors, full-length leggings, and opaque, high-stretch fabric define the Sahara. Flat-locked seams and quick-drying wicking properties prevent chafing. A deep elasticated waistband and carefully positioned seamlines create a flattering silhouette.",
     "image": "media/products/sahara-leggings.jpeg",
@@ -1301,7 +1284,7 @@
     "qty": 19
   },
   {
-    "id": 77,
+    "id": 76,
     "name": "Diana Tights",
     "description": "Perfect for hot bikram session or cool-down stretching. 8-percent stretch means you'll feel like anything is possible in the capri-style Diana Tights.",
     "image": "media/products/diana-tights.jpeg",
@@ -1320,7 +1303,7 @@
     ]
   },
   {
-    "id": 78,
+    "id": 77,
     "name": "Sylvia Capri",
     "description": "Enjoy a sleek, slendering look in new Silvia Capri. Its engineer-designed support fabric feels great and gives the illusion of a slimmer fit.",
     "image": "media/products/sylvia-capri.jpeg",
@@ -1331,7 +1314,7 @@
     ]
   },
   {
-    "id": 79,
+    "id": 78,
     "name": "Fiona Fitness Short",
     "description": "Don't let the plain style fool you: the Fiona Fitness Short demands notice on several levels. Comfort, of course. But also a performance-grade wicking fabric that takes everything you can give.",
     "image": "media/products/fiona-short.jpeg",
@@ -1348,9 +1331,9 @@
     ]
   },
   {
-    "id": 80,
+    "id": 79,
     "name": "Gwen Drawstring Bike Short",
-    "description": "For a completely modern style with moisture-wicking CoolTech™ technology, try the Gwen Drawstring Bike Short. Subtle grays and eye catching stitching combine with an adjustable waist for the perfect look and fit.",
+    "description": "For a completely modern style with moisture-wicking CoolTech technology, try the Gwen Drawstring Bike Short. Subtle grays and eye catching stitching combine with an adjustable waist for the perfect look and fit.",
     "image": "media/products/bike-short.jpeg",
     "price": "50€",
     "qty": 31,
@@ -1365,7 +1348,7 @@
     ]
   },
   {
-    "id": 81,
+    "id": 80,
     "name": "Artemis Running Short",
     "description": "Discover smooth jogging and chic comfort each time you slip into the Artemis Running Short. A unique maritime-inspired design and oolor theme features a stretchy drawstring waist.",
     "image": "media/products/artemis-short.jpeg",
@@ -1382,7 +1365,7 @@
     ]
   },
   {
-    "id": 82,
+    "id": 81,
     "name": "Angel Light Running Short",
     "description": "The Angel Light Running Short offers comfort in an ultra-lightweight, breathable package. With fabric infused with all-natural Cocona® performance technology, it can whisk away sweat and block UV rays.",
     "image": "media/products/angel-short.jpeg",
