@@ -25,7 +25,7 @@ function ProductDetails() {
       return(<div>Not such product ({error})</div>);
   }
   if(!product){
-      return(<div>Not such product</div>);
+      return(<div>Loading</div>);
   }
 
   return (
