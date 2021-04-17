@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import {
   Image,
-  Button,
   Heading,
   Alert,
   AlertIcon,
@@ -10,12 +9,13 @@ import {
   Box,
   CloseButton
 } from '@chakra-ui/react';
+import { AddToCart } from '../AddToCart';
 
 import './styles.scss';
 
 const ProductBox = ({ id, image, name, price }) => {
   const [addedToCart, setAddedToCart] = useState(false);
-  const handleAddToCartClick = product => {
+  const handleAddToCartClick = (product, qty) => {
     setAddedToCart(true);
   };
   return (
@@ -44,8 +44,8 @@ const ProductBox = ({ id, image, name, price }) => {
         <Heading as="h4" size="md">
           {name}
         </Heading>
-        <p>Price: {price}</p>
-        <Button onClick={() => handleAddToCartClick(id)}>Add To Cart</Button>
+        <p> Price: {price}</p>
+        <AddToCart handleClick={handleAddToCartClick} product={id} >Add To Cart</AddToCart>
       </Box>
     </Box>
   );

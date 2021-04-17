@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ProductDetails from "./pages/ProductDetails";
+import { ProductBox } from './components/ProductBox';
 
 function App() {
   return (
@@ -10,12 +11,12 @@ function App() {
           <Route path="/"></Route>
         </Switch>
       </Router>
-      {/* <ProductBox
+      <ProductBox
         id={1}
         image="media/products/joust-bag.jpeg"
         name="Joust Duffle Bag"
         price="34€"
-      /> */}
+      />
     </div>
   );
 }
