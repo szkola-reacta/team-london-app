@@ -1,0 +1,12 @@
+.main-menu {
+    background-color: #f0f0f0;
+    margin: 25px auto;
+    padding: 20px 0;
+    text-align: center;
+
+    > button,
+    > a {
+        font-weight: bold;
+        padding: 0 25px;
+    }
+}

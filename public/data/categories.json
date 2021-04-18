@@ -3,68 +3,91 @@
     "id": 1,
     "name": "Gear",
     "description": "We strive to continually offer an extensive range of quality products for all outdoor enthusiasts, from some of the world's best manufacturers, at the best prices. We value every one of our customers and we will do whatever we can to ensure your shopping experience is a great one.",
-    "products": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36]
+    "products": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36],
+    "subcategories": [2,3,4]
   },
   {
     "id": 2,
     "name": "Bags",
     "description": "We offer a huge selection of plastic luminaria bags in colors and original seasonal designs for use in decorating for parties or just for fun.",
     "image": "media/categories/bags.jpeg",
-    "products": [1,2,3,4,5,6,7,8,9,10,11,12,13,14]
+    "products": [1,2,3,4,5,6,7,8,9,10,11,12,13,14],
+    "parent_category": 1
   },
   {
     "id": 3,
     "name": "Fitness equipment",
     "description": "We invite you to read the directory of fitness equipment that we have prepared for you in our shop. It includes high-quality equipment intended for use in therapy, fitness classes at the time and in the course of the professional sports training. Thanks to the exercises performed using appropriate equipment can be very quickly and efficiently to improve muscle strength, coordination and strength of the body.",
     "image": "media/categories/fitness-equipment.jpg",
-    "products": [15,16,17,18,19,20,21,22,23,24,25,35,36]
+    "products": [15,16,17,18,19,20,21,22,23,24,25,35,36],
+    "parent_category": 1
   },
   {
     "id": 4,
     "name": "Watches",
     "description": "Discover watches you've never seen before. Watches.com offers the most unique and cool watches. Shop for both men's watches and women's watches.",
     "image": "media/categories/watches.jpg",
-    "products": [26,27,28,29,30,31,32,33,34]
+    "products": [26,27,28,29,30,31,32,33,34],
+    "parent_category": 1
   },
   {
     "id": 5,
-    "name": "Training videos",
-    "description": "We believe fitness should be accessible to everyone, everywhere, regardless of income level or access to a gym. That's why we offer hundreds of free, full-length workout videos, the most affordable and effective workout programs on the web, meal plans, and helpful health, nutrition and fitness information.",
-    "image": "media/categories/training-videos.jpeg",
-    "products": [37,38,39,40]
-  },
-  {
-    "id": 6,
     "name": "Men",
     "description": "We believe it shouldn’t be hard to fill your closet with clothes you love. That’s exactly why we offer a vast selection of men’s clothing to shop. Whether you’re looking for a casual pair of jeans, office-friendly shirts, or swim shorts for vacation, there’s bound to be something here for your closet.",
     "image": "media/categories/men.jpeg",
-    "products": [41,42,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,59]
+    "products": [41,42,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,59],
+    "subcategories": [7,10]
+  },
+  {
+    "id": 6,
+    "name": "Hoodies and sweatshirts",
+    "description": "Reach for zip-up hoodies in neutral colours when you need an extra layer for your commute to work, or opt for printed sweatshirts with an array of designs for the weekend. Or, style up a grey or black hoodie with your favourite jeans and trainers for an effortlessly cool look. Whatever your needs, our hoodies and sweatshirts have got you covered in the colder months.",
+    "image": "media/categories/sweatshirts.jpg",
+    "products": [41,42,43,44,45,46,47,48,49,50,51,52,53],
+    "parent_category": 6
   },
   {
     "id": 7,
     "name": "Hoodies and sweatshirts",
     "description": "Reach for zip-up hoodies in neutral colours when you need an extra layer for your commute to work, or opt for printed sweatshirts with an array of designs for the weekend. Or, style up a grey or black hoodie with your favourite jeans and trainers for an effortlessly cool look. Whatever your needs, our hoodies and sweatshirts have got you covered in the colder months.",
-    "image": "media/categories/sweatshirts.jpg",
-    "products": [41,42,43,44,45,46,47,48,49,50,51,52,53,60,61,62,63,64,65,66,67]
+    "products": [60,61,62,63,64,65,66,67],
+    "parent_category": 11
   },
   {
     "id": 8,
     "name": "Pants",
     "description": "Great for effortless everyday dressing, choose from tailored suit pants for the office, laidback chinos for the weekend and classic slacks in neutral shades, colors and a variety of fits.",
     "image": "media/categories/pants.jpeg",
-    "products": [54,55,56,57,58,59,73,74,75,76,77,78,79,80,81]
+    "products": [54,55,56,57,58,59],
+    "parent_category": 11
   },
   {
     "id": 9,
-    "name": "Women",
-    "description": "From everyday women's clothing or fast fashion to that quality party piece, our range will have something to suit you. With new lines added weekly.",
-    "image": "media/categories/women.jpeg",
-    "products": [60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81]
+    "name": "Pants",
+    "description": "Great for effortless everyday dressing, choose from tailored suit pants for the office, laidback chinos for the weekend and classic slacks in neutral shades, colors and a variety of fits.",
+    "products": [73,74,75,76,77,78,79,80,81],
+    "parent_category": 6
   },
   {
     "id": 10,
+    "name": "Women",
+    "description": "From everyday women's clothing or fast fashion to that quality party piece, our range will have something to suit you. With new lines added weekly.",
+    "image": "media/categories/women.jpeg",
+    "products": [60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81],
+    "subcategories": [8,9,12]
+  },
+  {
+    "id": 11,
     "name": "Bras and tops",
     "description": "At our shop you will find Bras & Tops - women - online at great prices and with fast delivery. Choose from a wide range of new arrivals every day.",
-    "products": [68,69,70,71,72]
+    "products": [68,69,70,71,72],
+    "parent_category": 9
+  },
+  {
+    "id": 12,
+    "name": "Training videos",
+    "description": "We believe fitness should be accessible to everyone, everywhere, regardless of income level or access to a gym. That's why we offer hundreds of free, full-length workout videos, the most affordable and effective workout programs on the web, meal plans, and helpful health, nutrition and fitness information.",
+    "image": "media/categories/training-videos.jpeg",
+    "products": [37,38,39,40]
   }
 ]
