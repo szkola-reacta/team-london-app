@@ -7,8 +7,8 @@ import MainMenu from "./components/MainMenu";
 function App() {
     return (
         <div className="App">
-            <MainMenu/>
             <Router>
+                <MainMenu/>
                 <Switch>
                     <Route path="/product/:productId" component={ProductDetails}/>
                 </Switch>
