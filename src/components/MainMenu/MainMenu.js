@@ -10,7 +10,7 @@ function MainMenu() {
     const [error, setError] = useState(false);
 
     useEffect(() => {
-        fetch('data/categories.json')
+        fetch('/data/categories.json')
             .then((response) => response.json())
             .then((data) => {
                 setCategories(data);
@@ -23,7 +23,7 @@ function MainMenu() {
     }
 
     return (
-        <HStack className="main-menu" justify="center">
+        <HStack className="main-menu" justify="center" p="5" my="5" textAlign="center" bg="#f0f0f0">
             <FirstLevelMenuItem
                 url="/"
                 label="Home"

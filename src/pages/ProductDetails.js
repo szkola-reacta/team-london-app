@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import { useParams } from "react-router";
+import { useParams } from "react-router-dom";
 
-import { Box, Button, Center, Container, Flex, Heading, HStack, Image, Spacer, Square, Tab, TabList, TabPanel, TabPanels, Tabs, Text, VStack } from "@chakra-ui/react";
+import { Box, Button, Center, Container, Flex, Heading, Image, Tab, TabList, TabPanel, TabPanels, Tabs, Text, VStack } from "@chakra-ui/react";
 
 function ProductDetails() {
   const params = useParams();
@@ -13,7 +13,6 @@ function ProductDetails() {
       .then((response) => response.json())
       .then((data) => {
           const p = data.find((p) => p.id === parseInt(params.productId));
-          p.rating = Math.floor(Math.random() * (5));
           setProduct(p);
       })
       .catch((error) => setError(error));
@@ -38,7 +37,6 @@ function ProductDetails() {
         </Center>
         <Box>
           <Heading mb={4}>{product.name}</Heading>
-          <Box>{`<RatingsComponent starts={${product.rating}}`}</Box>
 
           <Flex justify="space-between" spacing="24px">
             <VStack align="left">
@@ -76,7 +74,7 @@ function ProductDetails() {
         </TabPanels>
       </Tabs>
       <VStack>
-        <heading>We found other products you might like!</heading>
+        <Heading>We found other products you might like!</Heading>
         <Box>Related products component</Box>
       </VStack>
     </Container>
