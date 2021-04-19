@@ -7,7 +7,7 @@ function SecondLevelMenuItem({list}) {
             <MenuList>
                 {list.map((element) => (
                     <MenuItem key={element.id}>
-                        <Link href={element.url}>
+                        <Link to={{pathname: element.url}}>
                             {element.label}
                         </Link>
                     </MenuItem>

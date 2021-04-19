@@ -15,7 +15,7 @@ function App() {
             </Router>
             <ProductBox
                 id={1}
-                image="/media/products/joust-bag.jpeg"
+                image="media/products/joust-bag.jpeg"
                 name="Joust Duffle Bag"
                 price="34€"
             />
