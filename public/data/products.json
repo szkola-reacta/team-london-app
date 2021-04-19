@@ -20,7 +20,8 @@
       10,
       24,
       32
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 2,
@@ -43,7 +44,8 @@
       2,
       3,
       31
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 3,
@@ -66,7 +68,8 @@
       3,
       8,
       12
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 4,
@@ -84,7 +87,8 @@
     ],
     "upsells_products": [
       17
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 5,
@@ -92,7 +96,8 @@
     "description": "The Rival Field Messenger packs all your campus, studio or trail essentials inside a unique design of soft, textured leather - with loads of character to spare. Two exterior pockets keep all your smaller items handy, and the roomy interior offers even more space.",
     "image": "media/products/field-messenger.jpeg",
     "price": "45€",
-    "qty": 10
+    "qty": 10,
+    "rating": 3
   },
   {
     "id": 6,
@@ -112,7 +117,8 @@
     "upsells_products": [
       24,
       32
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 7,
@@ -129,7 +135,8 @@
     ],
     "upsells_products": [
       32
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 8,
@@ -152,7 +159,8 @@
       1,
       4,
       2
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 9,
@@ -174,7 +182,8 @@
       1,
       22,
       30
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 10,
@@ -194,7 +203,8 @@
     ],
     "upsells_products": [
       32
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 11,
@@ -208,7 +218,8 @@
     ],
     "crossells_products": [
       3
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 12,
@@ -221,7 +232,8 @@
       10,
       24,
       32
-    ]
+    ],
+    "rating": 1
   },
   {
     "id": 13,
@@ -234,7 +246,8 @@
       1,
       14,
       52
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 14,
@@ -247,7 +260,8 @@
       3,
       34,
       41
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 15,
@@ -263,7 +277,8 @@
     "upsells_products": [
       10,
       24
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 16,
@@ -271,7 +286,8 @@
     "description": "Make the most of your limited workout window with our Dual-Handle Cardio Ball. The 15-lb ball maximizes the effort-impact to your abdominal, upper arm and lower-body muscles. It features a handle on each side for a firm, secure grip.",
     "image": "media/products/cardio-ball.jpeg",
     "price": "12€",
-    "qty": 1
+    "qty": 1,
+    "rating": 3
   },
   {
     "id": 17,
@@ -284,7 +300,8 @@
       10,
       24,
       32
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 18,
@@ -301,7 +318,8 @@
     ],
     "upsells_products": [
       32
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 19,
@@ -324,7 +342,8 @@
       40,
       54,
       62
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 20,
@@ -341,7 +360,8 @@
     ],
     "upsells_products": [
       2
-    ]
+    ],
+    "rating": 1
   },
   {
     "id": 21,
@@ -358,7 +378,8 @@
     ],
     "upsells_products": [
       7
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 22,
@@ -375,7 +396,8 @@
     ],
     "upsells_products": [
       3
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 23,
@@ -392,7 +414,8 @@
     ],
     "upsells_products": [
       34
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 24,
@@ -409,7 +432,8 @@
     ],
     "upsells_products": [
       11
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 25,
@@ -427,7 +451,8 @@
     ],
     "upsells_products": [
       32
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 26,
@@ -440,7 +465,8 @@
       1,
       14,
       52
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 27,
@@ -448,7 +474,8 @@
     "description": "It's easy to track and monitor your training progress with the Endurance Watch. You'll see standard info like time, date and day of the week, but it also functions for the serious high-mileage athete: lap counter, stopwatch, distance, heart rate, speed/pace, cadence and altitude.",
     "image": "media/products/endurance-watch.jpeg",
     "price": "49€",
-    "qty": 9
+    "qty": 9,
+    "rating": 3
   },
   {
     "id": 28,
@@ -467,7 +494,8 @@
       10,
       24,
       32
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 29,
@@ -481,7 +509,8 @@
     ],
     "upsells_products": [
       66
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 30,
@@ -492,7 +521,8 @@
     "qty": 1,
     "upsells_products": [
       79
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 31,
@@ -503,7 +533,8 @@
     "qty": 1,
     "related_products": [
       53
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 32,
@@ -526,7 +557,8 @@
       10,
       24,
       32
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 33,
@@ -547,7 +579,8 @@
     ],
     "upsells_products": [
       50
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 34,
@@ -570,7 +603,8 @@
       10,
       25,
       36
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 35,
@@ -593,7 +627,8 @@
       10,
       24,
       32
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 36,
@@ -601,7 +636,8 @@
     "description": "A well-rounded yoga workout takes more than a mat. The Sprite Yoga Companion Kit helps stock your studio with the basics you need for a full-range workout. The kit is composed of four best-selling Luma Sprite accessories in one easy bundle: statis ball, foam block, yoga strap, and foam roller. Choose sizes and colors and leave the rest to us. The kit includes:",
     "image": "media/products/yoga-kit-2.jpeg",
     "price": "77€",
-    "qty": 51
+    "qty": 51,
+    "rating": 3
   },
   {
     "id": 37,
@@ -624,7 +660,8 @@
       10,
       24,
       62
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 38,
@@ -647,7 +684,8 @@
       10,
       24,
       62
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 39,
@@ -670,7 +708,8 @@
       16,
       24,
       37
-    ]
+    ],
+    "rating": 1
   },
   {
     "id": 40,
@@ -693,7 +732,8 @@
       12,
       24,
       34
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 41,
@@ -714,7 +754,8 @@
     ],
     "upsells_products": [
       10
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 42,
@@ -722,7 +763,8 @@
     "description": "This Teton Pullover Hoodie gives you more than laid-back style. It's equipped with moisture-wicking fabric to keep light and dry inside, especially in chilly-weather workouts. An elasticized hem lets you move about freely.",
     "image": "media/products/pullover-hoodie.jpeg",
     "price": "70€",
-    "qty": 61
+    "qty": 61,
+    "rating": 4
   },
   {
     "id": 43,
@@ -742,7 +784,8 @@
     "upsells_products": [
       24,
       32
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 44,
@@ -759,7 +802,8 @@
     ],
     "upsells_products": [
       32
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 45,
@@ -776,7 +820,8 @@
     ],
     "upsells_products": [
       88
-    ]
+    ],
+    "rating": 1
   },
   {
     "id": 46,
@@ -793,7 +838,8 @@
     ],
     "upsells_products": [
       33
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 47,
@@ -810,7 +856,8 @@
     ],
     "upsells_products": [
       11
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 48,
@@ -827,7 +874,8 @@
     ],
     "upsells_products": [
       14
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 49,
@@ -845,7 +893,8 @@
     "upsells_products": [
       14,
       32
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 50,
@@ -862,7 +911,8 @@
     ],
     "upsells_products": [
       42
-    ]
+    ],
+    "rating": 1
   },
   {
     "id": 51,
@@ -879,7 +929,8 @@
     ],
     "upsells_products": [
       73
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 52,
@@ -897,7 +948,8 @@
     ],
     "upsells_products": [
       15
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 53,
@@ -910,7 +962,8 @@
       10,
       26,
       32
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 54,
@@ -927,7 +980,8 @@
     ],
     "upsells_products": [
       9
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 55,
@@ -944,7 +998,8 @@
     ],
     "upsells_products": [
       13
-    ]
+    ],
+    "rating": 1
   },
   {
     "id": 56,
@@ -961,7 +1016,8 @@
     ],
     "upsells_products": [
       15
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 57,
@@ -980,7 +1036,8 @@
     ],
     "upsells_products": [
       18
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 58,
@@ -999,7 +1056,8 @@
     "upsells_products": [
       14,
       32
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 59,
@@ -1017,7 +1075,8 @@
     ],
     "upsells_products": [
       29
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 60,
@@ -1035,7 +1094,8 @@
     ],
     "upsells_products": [
       3
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 61,
@@ -1052,7 +1112,8 @@
     ],
     "upsells_products": [
       4
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 62,
@@ -1069,7 +1130,8 @@
     ],
     "upsells_products": [
       7
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 63,
@@ -1086,7 +1148,8 @@
     ],
     "upsells_products": [
       9
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 64,
@@ -1103,7 +1166,8 @@
     ],
     "upsells_products": [
       41
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 65,
@@ -1121,7 +1185,8 @@
     ],
     "upsells_products": [
       55
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 66,
@@ -1142,7 +1207,8 @@
     ],
     "upsells_products": [
       10
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 67,
@@ -1160,7 +1226,8 @@
     ],
     "upsells_products": [
       32
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 68,
@@ -1168,7 +1235,8 @@
     "description": "A heavenly soft and stylish eco garment, the Electra Bra Top is perfect for wearing on its own as a hot yoga top or layered under a tank.",
     "image": "media/products/electra-top.jpeg",
     "price": "39€",
-    "qty": 16
+    "qty": 16,
+    "rating": 4
   },
   {
     "id": 69,
@@ -1191,7 +1259,8 @@
       10,
       24,
       32
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 70,
@@ -1207,7 +1276,8 @@
       10,
       24,
       32
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 71,
@@ -1224,7 +1294,8 @@
     ],
     "upsells_products": [
       24
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 72,
@@ -1241,7 +1312,8 @@
     ],
     "upsells_products": [
       46
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 73,
@@ -1257,7 +1329,8 @@
     ],
     "upsells_products": [
       56
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 74,
@@ -1273,7 +1346,8 @@
       10,
       24,
       32
-    ]
+    ],
+    "rating": 0
   },
   {
     "id": 75,
@@ -1281,7 +1355,8 @@
     "description": "Contrast colors, full-length leggings, and opaque, high-stretch fabric define the Sahara. Flat-locked seams and quick-drying wicking properties prevent chafing. A deep elasticated waistband and carefully positioned seamlines create a flattering silhouette.",
     "image": "media/products/sahara-leggings.jpeg",
     "price": "75€",
-    "qty": 19
+    "qty": 19,
+    "rating": 3
   },
   {
     "id": 76,
@@ -1300,7 +1375,8 @@
     ],
     "upsells_products": [
       33
-    ]
+    ],
+    "rating": 4
   },
   {
     "id": 77,
@@ -1311,7 +1387,8 @@
     "qty": 51,
     "related_products": [
       2
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 78,
@@ -1328,7 +1405,8 @@
     ],
     "upsells_products": [
       45
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": 79,
@@ -1345,7 +1423,8 @@
     ],
     "upsells_products": [
       44
-    ]
+    ],
+    "rating": 2
   },
   {
     "id": 80,
@@ -1362,7 +1441,8 @@
     ],
     "upsells_products": [
       34
-    ]
+    ],
+    "rating": 5
   },
   {
     "id": 81,
@@ -1379,6 +1459,7 @@
     ],
     "upsells_products": [
       79
-    ]
+    ],
+    "rating": 2
   }
 ]
