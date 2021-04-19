@@ -1,4 +1,5 @@
-import {Link, MenuItem, MenuList} from "@chakra-ui/react";
+import {Link} from 'react-router-dom';
+import {MenuItem, MenuList} from "@chakra-ui/react";
 
 function SecondLevelMenuItem({list}) {
     if (Array.isArray(list)) {
