@@ -38,7 +38,7 @@ const ProductBox = ({ id, image, name, price }) => {
         </Alert>
       )}
 
-      <Image src={image} />
+      <Image src={`/${image}`} alt={name} />
 
       <Box p="5">
         <Heading as="h4" size="md">
