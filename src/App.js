@@ -1,14 +1,17 @@
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import ProductDetails from "./pages/ProductDetails";
+
 import { ProductBox } from './components/ProductBox';
+import ProductDetails from "./pages/ProductDetails";
+
+import MainMenu from "./components/MainMenu";
 
 function App() {
   return (
     <div className="App">
       <Router>
+        <MainMenu/>
         <Switch>
-          <Route path="/product/:productId" component={ProductDetails} />
-          <Route path="/"></Route>
+          <Route path="/product/:productId" component={ProductDetails}/>
         </Switch>
       </Router>
       <ProductBox
