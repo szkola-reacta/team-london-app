@@ -1,5 +1,5 @@
-import {Link} from 'react-router-dom';
-import {Menu, MenuButton} from "@chakra-ui/react";
+import {Link as RouterLink} from 'react-router-dom';
+import {Menu, Link, MenuButton} from "@chakra-ui/react";
 import {ChevronDownIcon} from "@chakra-ui/icons";
 
 import SecondLevelMenuItem from "./SecondLevelMenuItem";
@@ -18,7 +18,7 @@ function FirstLevelMenuItem({url, label, submenu}) {
     }
 
     return (
-        <Link to={{pathname: url}}>
+        <Link as={RouterLink} to={{pathname: url}}>
             {label}
         </Link>
     )

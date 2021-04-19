@@ -1,5 +1,5 @@
-import {Link} from 'react-router-dom';
-import {MenuItem, MenuList} from "@chakra-ui/react";
+import {Link as RouterLink} from 'react-router-dom';
+import {MenuItem, Link, MenuList} from "@chakra-ui/react";
 
 function SecondLevelMenuItem({list}) {
     if (Array.isArray(list)) {
@@ -7,7 +7,7 @@ function SecondLevelMenuItem({list}) {
             <MenuList>
                 {list.map((element) => (
                     <MenuItem key={element.id}>
-                        <Link to={{pathname: element.url}}>
+                        <Link as={RouterLink} to={{pathname: element.url}}>
                             {element.label}
                         </Link>
                     </MenuItem>
