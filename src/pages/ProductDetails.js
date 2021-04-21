@@ -2,29 +2,42 @@ import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 
 import { Box, Button, Center, Container, Flex, Heading, Image, Tab, TabList, TabPanel, TabPanels, Tabs, Text, VStack } from "@chakra-ui/react";
+import { ProductStars } from "../components/ProductReviews";
+import { AddToCart } from "../components/AddToCart";
 
 function ProductDetails() {
   const params = useParams();
   const [product, setProduct] = useState();
   const [error, setError] = useState();
+  const [addingToCart, setAddingToCart] = useState(false);
+
+  useEffect(() => {
+    let timeoutId;
+    if (addingToCart) {
+      timeoutId = setTimeout(() => {
+        setAddingToCart(false);
+      }, 500);
+    }
+
+    return () => clearTimeout(timeoutId);
+  }, [addingToCart]);
 
   useEffect(() => {
     fetch("/data/products.json")
       .then((response) => response.json())
-      .then((data) => {
-          const p = data.find((p) => p.id === parseInt(params.productId));
-          setProduct(p);
-      })
+      .then((data) => setProduct(data.find((p) => p.id === parseInt(params.productId))))
       .catch((error) => setError(error));
-
-    return () => {};
   }, [params.productId]);
 
+  const onAddToCart = (_productAdded, _qty) => {
+    setAddingToCart(true);
+  };
+
   if(error){
-      return(<div>Not such product ({error})</div>);
+      return(<Container maxW="container.xl"><div>Not such product ({error})</div></Container>);
   }
   if(!product){
-      return(<div>Loading</div>);
+      return(<Container maxW="container.xl"><div>Loading</div></Container>);
   }
 
   return (
@@ -37,7 +50,9 @@ function ProductDetails() {
         </Center>
         <Box>
           <Heading mb={4}>{product.name}</Heading>
-
+          <Box>
+            <ProductStars rating={product.rating || 0} />
+          </Box>
           <Flex justify="space-between" spacing="24px">
             <VStack align="left">
               <Box>
@@ -54,8 +69,11 @@ function ProductDetails() {
               <Text>SKU# PROD_{product.id}</Text>
             </VStack>
           </Flex>
-
-          <Button colorScheme="blue">Add to Cart Comp (todo)</Button>
+          {addingToCart ? (
+            <Button disabled>Adding...</Button>
+          ) : (
+            <AddToCart product={product} qty={1} handleClick={onAddToCart} />
+          )}
         </Box>
       </Flex>
 
