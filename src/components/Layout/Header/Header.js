@@ -1,10 +1,9 @@
 import { Button } from "@chakra-ui/button";
-import { SearchIcon } from "@chakra-ui/icons";
+import { Icon } from "@chakra-ui/icons";
 import { Image } from "@chakra-ui/image";
 import { Input } from "@chakra-ui/input";
-import { Grid, HStack } from "@chakra-ui/layout";
-import { Box, Container, VStack } from "@chakra-ui/layout";
-import { FaBars, FaShoppingBasket } from "react-icons/fa";
+import { Box, Container, VStack, Grid, HStack } from "@chakra-ui/layout";
+import { FaBars, FaSearch, FaShoppingBasket } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import useSearchInput from "./useSearchInput";
 
@@ -87,7 +86,7 @@ function Header() {
               type="button"
               onClick={onHandleSearch}
             >
-              <SearchIcon></SearchIcon>
+              <Icon as={FaSearch}></Icon>
             </Button>
           </Box>
           <Box>
