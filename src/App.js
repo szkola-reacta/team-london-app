@@ -4,8 +4,7 @@ import { ProductBox } from './components/ProductBox';
 import ProductDetails from "./pages/ProductDetails";
 
 import MainMenu from "./components/MainMenu";
-import { Header } from "./components/Layout";
-import { Footer } from "./components/Layout";
+import { Header, Footer } from "./components/Layout";
 
 function App() {
   return (
