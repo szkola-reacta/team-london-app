@@ -1,0 +1,23 @@
+.footer {
+    background: #f4f4f4;
+    &__contact {
+        padding: 30px;
+        text-align: center;
+    }
+    &__link {
+        color: #575757;
+        text-decoration: none;
+        &:hover {
+            color: #333;
+            text-decoration: underline;
+        }
+    }
+    &__copy {
+        width: 100%;
+        background-color: #6e716e;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+        font-size: 12px;
+    }
+}
