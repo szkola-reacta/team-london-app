@@ -5,6 +5,7 @@ import { Input } from "@chakra-ui/input";
 import { Box, Container, VStack, Grid, HStack } from "@chakra-ui/layout";
 import { FaBars, FaSearch, FaShoppingBasket } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import UserWelcomeBar from "../../Users";
 import useSearchInput from "./useSearchInput";
 
 function Header() {
@@ -24,7 +25,7 @@ function Header() {
         display={{ base: "none", md: "initial" }}
       >
         <Container align="right" maxW="container.xl">
-          Top info message + log information etc
+          <UserWelcomeBar />
         </Container>
       </Box>
       <Container maxW="container.xl">

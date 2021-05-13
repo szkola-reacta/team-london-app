@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "login": "admin",
+    "password": "admin",
+    "name": "Admin",
+    "accessToken": "8eb40cef-d726-4f6a-be8d-6eadc7860f6c"
+  }
+]
