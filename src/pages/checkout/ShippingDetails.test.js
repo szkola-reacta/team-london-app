@@ -4,10 +4,6 @@ import { createMemoryHistory } from "history";
 import { Provider } from "react-redux";
 import { Router } from "react-router";
 import ShippingDetails from "./ShippingDetails";
-import { shallow } from "enzyme";
-import { testStore } from "../../store/store";
-
-//todo fix the tests :-)
 
 const mockStore = configureStore([]);
 let store;
@@ -40,38 +36,7 @@ describe("redirect to next step", () => {
       )
     );
 
-    act(() => {
-      // fireEvent.click(screen.getByText(/Next/i));
-    });
-
-    expect(history.location.pathname).toBe("/checkout/payment");
-  });
-  test("should redirect to shipping_details enzyme", async () => {
-    const history = createMemoryHistory({
-      initialEntries: ["/checkout/shipping_details"],
-    });
-    // const wrapper = shallow(
-    //   <Provider store={store}>
-    //     <ShippingDetails />
-    //   </Provider>
-    // );
-
-    const store = testStore({
-      checkout: {
-        countryId: 1,
-        shippingMethodId: 10,
-        shippingFormData: {
-          firstName: "some name",
-        },
-      },
-    });
-
-    const wrapper = shallow(<ShippingDetails store={store} />)
-      .childAt(0)
-      .dive();
-
-    wrapper.find("#test").to.have.lengthOf(1);
-    act(() => {
+    await act(async () => {
       fireEvent.click(screen.getByText(/Next/i));
     });
 
