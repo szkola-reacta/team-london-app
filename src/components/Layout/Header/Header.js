@@ -91,7 +91,7 @@ function Header() {
             </Button>
           </Box>
           <Box>
-            <Button background="none">
+            <Button as={Link} to="/cart" background="none">
               <FaShoppingBasket />
             </Button>
           </Box>
