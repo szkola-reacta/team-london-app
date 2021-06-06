@@ -9,6 +9,7 @@ import { Header, Footer } from "./components/Layout";
 
 import Login from "./pages/Users/Login";
 import { UserProvider } from "./components/Contexts/User/UserContext";
+import Checkout from "./pages/checkout";
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
           <Switch>
             <Route path="/product/:productId" component={ProductDetails} />
             <Route path="/search/:searchTerm">We will find something!:)</Route>
-            <Route path="/sign-in" component={Login}></Route>
+            <Route path="/sign-in" component={Login} />
+            <Route path="/checkout" component={Checkout} />
           </Switch>
           <ProductBox
             id={1}

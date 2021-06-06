@@ -91,9 +91,11 @@ function Header() {
             </Button>
           </Box>
           <Box>
-            <Button background="none">
-              <FaShoppingBasket />
-            </Button>
+            <Link to="/checkout">
+              <Button background="none">
+                <FaShoppingBasket />
+              </Button>
+            </Link>
           </Box>
         </Grid>
       </Container>
