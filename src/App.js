@@ -8,6 +8,7 @@ import { Header, Footer } from "./components/Layout";
 import Login from "./pages/Users/Login";
 import { UserProvider } from "./components/Contexts/User/UserContext";
 import { Category, Cart, Subcategory, HomePage } from "./pages";
+import Checkout from "./pages/checkout";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
             <Route path="/search/:searchTerm">We will find something!:)</Route>
             <Route path="/sign-in" component={Login}></Route>
             <Route path="/cart" component={Cart}></Route>
+            <Route path="/checkout" component={Checkout} />
             <Route path="/:categoryName" exact component={Category} />
             <Route path="/:categoryName/:categoryId" component={Subcategory} />
           </Switch>
